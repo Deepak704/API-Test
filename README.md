@@ -13,8 +13,8 @@ This repository contains a Postman collection for testing the Exchange Rate API.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/Deepak704/API-Test.git
+    cd API-Test
     ```
 
 ## Postman Tests
